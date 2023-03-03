@@ -1,0 +1,5 @@
+body{
+    text-align: center;
+    font-size: 60px;
+    background-image: linear-gradient(to right, rgb(255, 0, 0) , rgb(255, 255, 0));
+}
